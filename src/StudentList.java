@@ -70,7 +70,7 @@ public class StudentList {
             System.out.println(count + " word(s) found " + a.length);
             System.out.println("Data Loaded.");
         } else {
-            System.out.println("Invalid argument pass from rayhan");
+            System.out.println("Invalid argument pass from rayhan and farhan");
         }
     }
 }
